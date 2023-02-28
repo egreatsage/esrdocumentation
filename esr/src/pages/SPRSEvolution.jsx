@@ -62,14 +62,14 @@ const SPRSEvolution = () => {
             National ID. Figure 2.1 depicts the evolution of single registry from the programme MIS
             enhancements to the conception of single registry and finally its launch.
                         </p>
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-sm text-blue-500  ml-2 md:mx-4  my-3">
                           Figure 2.1: Evolution of Single Registry - from conception to launch
                         </p>
                         <img src="assets/SingleRegistryManual.PNG" alt=""/>
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-sm text-blue-500  ml-2 md:mx-4  my-3">
                           Source: Single Registry manual
                         </p>
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-xl  ml-2 md:mx-4">
                           The introduction of the Single Registry increased transparency, accountability, and the
             functioning of the social protection programmes in Kenya. Previously, social protection actors
             were unable to answer the simple question of who was receiving what within each social
@@ -77,24 +77,24 @@ const SPRSEvolution = () => {
             coherent viewing platform, providing a means of managing and cross-referencing the
             information.
                         </p>
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-xl  ml-2 md:mx-4">
                           The National Social Protection Secretariat (NSPS), with support from development partners,’
                           supported the process of enhancing the Single Registry to be responsive to broader social
                           protection needs. The following enhancements were undertaken in the Single Registry:
                         </p>
-                        <div class="md:ml-6 text-gray-900 font-bold">    
-                          <p class=" tracking-wide my-3 ">(i) development of complementarity module to support automated data sharing and
+                        <div class="md:ml-6 text-md ml-3 text-gray-900 font-semi-bold">    
+                          <p class="  my-3 ">(i) development of complementarity module to support automated data sharing and
                             feedback mechanism</p>
-                          <p class=" tracking-wide my-3 ">
+                          <p class="  my-3 ">
                             (ii) development of a generic County Social Protection (SP) MIS
                           </p>
-                          <p class=" tracking-wide my-3 "> 
+                          <p class="  my-3 "> 
                             (iii) development of a dynamic Application Programming Interface 27(API) for linking other
                             SP sectors to the Single Registry.
                           </p>
-                          <p class=" tracking-wide my-3 "> (iv) Development of a social registry module.</p>
+                          <p class="  my-3 "> (iv) Development of a social registry module.</p>
                          </div>
-                         <p class="flex flex-wrap tracking-wide my-3">
+                         <p class="flex text-xl  ml-2 md:mx-4">
                           The additional modules developed resulted in the launch of the “Enhanced Single Registry of
             Kenya”, which could perform the functions of the Single registry and the Social Registry28
             . The Single Registry enhancements have been developed on a rolling basis, starting with the
@@ -109,21 +109,21 @@ const SPRSEvolution = () => {
             finally evolved into the Enhanced Single Registry of Kenya. Figure 2.2.2 below depicts the modular
             development approach that was employed.
                         </p>
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-sm text-blue-500  ml-2 md:mx-4  my-3">
                           Figure 2.2: The modular development approach
                         </p>
                         <img src="assets/Author_Consultant.PNG" alt=""/>
                       </div>
             
                       <div class="my-6" id="Timelines">
-                        <h1 class="text-xl font-bold my-3 tracking-wide ">
+                        <h1 class="text-xl font-bold my-3">
                           Timelines for Enhance Single Registry for Social Protection in Kenya
                         </h1>
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-xl  ml-2 md:mx-4">
                           The timelines for the development of the ESR30 are outlined below starting from the recent
                           activities to when the SP Programmes were launched.
                         </p>
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-xl mt-3 text-blue-500 ml-2 md:mx-4">
                           2004: Launch of cash transfer programmes
                         </p>
                         <div class="md:ml-6 text-gray-900 font-bold">    
@@ -145,7 +145,7 @@ const SPRSEvolution = () => {
                          
                         
                          </div>
-                         <p class="flex flex-wrap tracking-wide my-3">
+                         <p class="flex text-xl mt-3 text-blue-500 ml-2 md:mx-4">
                           2012: Policy and institutional framework established
                         </p>
                          <div class="md:ml-6 text-gray-900 font-bold">    
@@ -156,7 +156,7 @@ const SPRSEvolution = () => {
                             &#9642; National social protection secretariat established.
                           </p>
                          </div>
-                         <p class="flex flex-wrap tracking-wide my-3">
+                         <p class="flex text-xl mt-3 text-blue-500 ml-2 md:mx-4">
                           2015: State Department for social protection established including
                         </p>
                          <div class="md:ml-6 text-gray-900 font-bold">    
@@ -173,7 +173,7 @@ const SPRSEvolution = () => {
                             &#9642;Department for Social Department
                           </p>
                          </div>
-                         <p class="flex flex-wrap tracking-wide my-3">
+                         <p class="flex text-xl mt-3 text-blue-500 ml-2 md:mx-4">
                           2017: Single registry developed
                         </p>
                          <div class="md:ml-6 text-gray-900 font-bold">    
@@ -187,7 +187,7 @@ const SPRSEvolution = () => {
                             &#9642; Managed by the national social protection secretariat under the state department for social protection
                           </p>
                          </div>
-                         <p class="flex flex-wrap tracking-wide my-3">
+                         <p class="flex text-xl mt-3 text-blue-500 ml-2 md:mx-4">
                           2020: Development of Enhanced Single Registry
                         </p>
                          <div class="md:ml-6 text-gray-900 font-bold">    
@@ -205,7 +205,7 @@ const SPRSEvolution = () => {
                           </p>
               
                          </div>
-                         <p class="flex flex-wrap tracking-wide my-3">
+                         <p class="flex text-xl mt-3 text-blue-500 ml-2 md:mx-4">
                           2022: A fully integrated enhanced single registry
                         </p>
                          <div class="md:ml-6 text-gray-900 font-bold">    
@@ -229,15 +229,15 @@ const SPRSEvolution = () => {
                           </p>
               
                          </div>
-                         <p class="flex flex-wrap tracking-wide my-3">
+                         <p class="flex text-xl  ml-2 md:mx-4">
                           The dates and significant turning points in the development of the Enhanced Single Registry are
                           summarized in Figure 2.4.
                         </p>
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-sm text-blue-500  ml-2 md:mx-4  my-3">
                           Figure 2.4: Timeline for Enhancement of Single Registry
                         </p>
                         <img src="assets/NSPCenter.PNG" alt=""/>
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-sm text-blue-500  ml-2 md:mx-4  my-3">
                           Source: National Social Protection Secretariat/ Information Centre
                         </p>
                       </div>
@@ -245,13 +245,13 @@ const SPRSEvolution = () => {
                     </div>      
                     <div class="my-6" id="DevelopmentStageintro">
                       <h1 class="text-xl font-bold my-3 tracking-wide ">Development of the Enhanced Single Registry</h1>
-                      <p class="flex flex-wrap tracking-wide my-3">
+                      <p class="flex text-xl  ml-2 md:mx-4">
                         This section provides the methodologies used during the design and development of the ESR
                          and some of the key considerations based on lessons learned and best practices both during ESR
                         development and implementation, as well as lessons from other MIS and registry’s international
                          best practices highlighted in the lessons learnt and best practices chapter.
                       </p>
-                      <p class="flex flex-wrap tracking-wide my-3">
+                      <p class="flex text-xl  ml-2 md:mx-4">
                         The development of the ESR has been an elaborate process that involved and offered a significant
                         learning experience for social protection actors within the Ministry of Labour and Social
             Protection at the national government and county governments, the World Food Programme
@@ -261,11 +261,11 @@ const SPRSEvolution = () => {
             Agriculture Organization (FAO), among others who have an interest in the system.. Figure 3..1
             provides the ESR architecture,.
                       </p>
-                      <p class="flex flex-wrap tracking-wide my-3">
+                      <p class="flex text-sm text-blue-500  ml-2 md:mx-4  my-3">
                         Figure 3.1: Enhanced Single Registry architecture
                       </p>
                       <img src="assets/singleregistrymanual2.PNG" alt=""/>
-                      <p class="flex flex-wrap tracking-wide my-3">
+                      <p class="flex text-sm text-blue-500  ml-2 md:mx-4  my-3">
                         Source: Single Registry manual
                       </p>
                     </div>
