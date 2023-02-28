@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Navbar,Sidebar} from './components';
-import { Introduction,SPRSEvolution,ESRDevelopment,ESROperational,ESRInstArrangments,ESRSucesFactors,LessonsAndPractices,Conclusion } from './pages';
+import { Introduction,SPRSEvolution,ESRDevelopment,ESROperational,ESRInstArrangments,ESRSucesFactors,LessonsAndPractices,Conclusion, Summary } from './pages';
 import './App.css';
 import { useStateContext } from './components/ContextProvider';
 
@@ -37,9 +37,8 @@ const App = () => {
 
               <Routes>
                 {/* dashboard  */}
-                <Route path="/" element={(<Introduction />)} />
-               
-
+                <Route path="/" element={(<Summary />)} />
+                <Route path="/introduction" element={(<Introduction />)} />
                 {/* pages  */}
                 <Route path="/evolutionofsprse" element={<SPRSEvolution />} />
                 <Route path="/esrdevelopment" element={<ESRDevelopment/>} />

@@ -22,7 +22,8 @@ const Sidebar = () => {
           </div>
           <div className="mt-10 ">
           <ul class="mt-8">
-               <div className='my-5 mt-20 text-md hover:bg-gray-200 font-semibold transition-all-1 rounded-md px-2 py-1'><Link to='/'>INTRODUCTION</Link></div>
+               <div className='my-5 mt-12 text-md hover:bg-gray-200 font-semibold transition-all-1 rounded-md px-2 py-1'><Link to='/'>SUMMARY</Link></div>
+               <div className='my-5  text-md hover:bg-gray-200 font-semibold transition-all-1 rounded-md px-2 py-1'><Link to='/introduction'>INTRODUCTION</Link></div>
                <div className='my-5 text-md hover:bg-gray-200 font-semibold transition-all-1 rounded-md px-2 py-1'><Link to='/evolutionofsprse'>Evolution Of Kenya Social Protection Right</Link></div>
                <div className='my-5 text-md hover:bg-gray-200 font-semibold transition-all-1 rounded-md px-2 py-1'><Link to='/esrdevelopment'>Development Of ESR</Link></div>
                <div className='my-5 text-md hover:bg-gray-200 font-semibold transition-all-1 rounded-md px-2 py-1'><Link to='/operationalofesr'>ESR Operational Processes</Link></div>
