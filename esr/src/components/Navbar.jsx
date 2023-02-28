@@ -52,8 +52,6 @@ const Navbar = () => {
       <NavButton title="Menu" customFunc={handleActiveMenu}  icon={<AiOutlineMenu />} />
       
       <div className="flex">
-
-          <input type="Search here" placeholder='Search Here' className='' />
       </div>
     </div>
   );
