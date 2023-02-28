@@ -2,22 +2,22 @@ import React from 'react'
 
 const SPRSEvolution = () => {
   return (
-    <div>
+    <div className='text-md ml-4 md:mt-2 mt-24'>
        <div id="ESREvolution" class="my-3">
-                      <h1 class="text-xl font-bold my-3 tracking-wide ">
+                      <h1 class="text-2xl font-bold my-3 tracking-wide ">
                         Evolution of the Kenya Social Protection Registry System
                       </h1>
-                      <p class="flex flex-wrap tracking-wide my-3">
+                      <p class="flex text-xl  ml-2 md:mx-4">
             This section provides the historical background and evolution of the ESR from its inception where
             programme MISs were developed and strengthened, to the design and development of the
             Single Registry and finally how Single Registry was enhanced and finally evolved into Enhanced
             Single Registry Platform.
                       </p>
                       <div id="ESREvolution" class="my-3">
-                        <h1 class="text-xl font-bold my-3 tracking-wide ">
+                        <h1 class="text-2xl font-bold my-3 tracking-wide">
                           Evolution of ESR in Kenya
                         </h1>
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-xl  ml-2 md:mx-4">
                           The ESR in Kenya began as a strategy to strengthen social protection linkages with other social
                           protection stakeholders and programmes as well as overall framework for the enhancement of
                           the existing single registry for social protection25
@@ -29,7 +29,7 @@ const SPRSEvolution = () => {
                           the sector.
                         </p>
             
-                        <p class="flex flex-wrap tracking-wide my-3">
+                        <p class="flex text-xl  ml-2 md:mx-4">
                           The evolution of the ESR has been through a journey initiated first through the design and
             development of the Single Registry which occurred between 2015 and 2019 as a core component
             of the WFP’s Complementarity Initiative in Kenya26
@@ -39,22 +39,22 @@ const SPRSEvolution = () => {
             subsequently, WFP to work with the National Social Protection Secretariat to build the Single
             Registry. The design and development of the Single Registry involved the following activities:
                         </p>
-                        <div class="md:ml-6 text-gray-900 font-bold">    
-                          <p class=" tracking-wide my-3 ">1. upgrading four of the individual programme-level MISs to robust and scalable web-enabled
+                        <div class="md:ml-6 text-md ml-3 text-gray-900 font-semi-bold">    
+                          <p class="my-3">1. upgrading four of the individual programme-level MISs to robust and scalable web-enabled
                             platforms;</p>
-                          <p class=" tracking-wide my-3 ">
+                          <p class="my-3 ">
                             2. building an automated link between the Single Registry and the Integrated Population
             Registration Service (IPRS) to support the National ID online validation process;
                           </p>
-                          <p class=" tracking-wide my-3 "> 
+                          <p class="my-3 "> 
                             3. enabling the automatic transfer of data between programme level MISs and the Single
             Registry;
                           </p>
-                          <p class=" tracking-wide my-3 ">4. improving reporting tools to engage stakeholders by introducing dashboards</p>
-                          <p class=" tracking-wide my-3 "> 5. Developing a geo maps for online visual reporting.
+                          <p class="my-3 ">4. improving reporting tools to engage stakeholders by introducing dashboards</p>
+                          <p class="my-3 "> 5. Developing a geo maps for online visual reporting.
                          for social protection effort(s)</p>
                          </div>
-                         <p class="flex flex-wrap tracking-wide my-3">
+                         <p class="flex text-xl  ml-2 md:mx-4">
                           The Single Registry enabled the government of Kenya to link together the MISs of five social
                         protection programmes (OPCT, PWSD-CT, CT-OVC, Hunger Safety Net programme, and Urban
                          Food Subsidy Programme). Furthermore, the Single Registry was linked to the National

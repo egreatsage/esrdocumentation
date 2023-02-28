@@ -4,8 +4,8 @@ const Introduction = () => {
   return (
     <div className='text-md ml-4 md:mt-2 mt-24'>
         <div id="Background1" class="my-3 ">
-                        <h1 class="text-2xl font-bold my-3 tracking-wide  ">Background Of Social Protection In Kenya</h1>
-                        <p class="flex text-xl  ml-2 md:mx-4  ">
+                        <h1 class="text-2xl font-bold my-3 tracking-wide">Background Of Social Protection In Kenya</h1>
+                        <p class="flex text-xl  ml-2 md:mx-4">
                             In Kenya, Social Protection (SP) is defined as policies and actions, including legislative measures,
             that seek to enhance the capacity and opportunities for the poor and vulnerable to improve and
             sustain their livelihoods and welfare; enable income-earners and their dependants to maintain a
